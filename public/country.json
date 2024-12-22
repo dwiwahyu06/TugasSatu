@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.pinimg.com/736x/9e/62/39/9e6239f562f8c5f5d08ef48c1d952ab9.jpg",
+        "nama": "Indonesia",
+        "ibu kota": "Jakarta",
+        "penduduk": "-+270 juta jiwa"
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/736x/68/ce/a3/68cea30709c608a4e8d7a3fb6f738824.jpg",
+        "nama": "Malaysia",
+        "ibu kota": "Kuala Lumpur dan Putra Jaya",
+        "penduduk": "-+34,31 juta jiwa"
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/2e/9e/4f/2e9e4f04a4fd6e9c5339bc10eca11a8c.jpg",
+        "nama": "Korea Selatan",
+        "ibu kota": "Seoul",
+        "penduduk": "-+51,71 juta jiwa"
+    },
+    {
+        "id": 4,
+        "image": "https://i.pinimg.com/736x/a0/15/99/a015993fde8576561a991e2f833fdb32.jpg",
+        "nama": "China",
+        "ibu kota": "Beijing",
+        "penduduk": "-+1,411 miliar jiwa"
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/736x/20/2e/65/202e65035c5dda1607f8991c9f761d07.jpg",
+        "nama": "Arab Saudi",
+        "ibu kota": "Riyadh",
+        "penduduk": "-+36,95 juta jiwa"
+    },
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/736x/57/d5/6e/57d56ee2847ea21006e744f203761678.jpg",
+        "nama": "Thailand",
+        "ibu kota": "Bangkok",
+        "penduduk": "-+71,8 juta jiwa"
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/736x/f7/71/87/f771879d27b2045081d46be8e67fc728.jpg",
+        "nama": "Vietnam",
+        "ibu kota": "Hanoi",
+        "penduduk": "-+98,7 juta jiwa"
+    },
+    {
+        "id": 8,
+        "image": "https://i.pinimg.com/736x/8a/6c/78/8a6c7818ef056d3c9bbc1a16c1e6c64e.jpg",
+        "nama": "Singapura",
+        "ibu kota": "Singapura",
+        "penduduk": "-+5,69 juta jiwa"
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/736x/de/45/5f/de455f6720dd3166b8cce2877c3098e4.jpg",
+        "nama": "Amerika Serikat",
+        "ibu kota": "Washington D.C.",
+        "penduduk": "-+331,4 juta jiwa"
+    },
+    {
+        "id": 10,
+        "image": "https://i.pinimg.com/736x/8b/ad/56/8bad5667167a1d7a3ad4a2613c0ac194.jpg",
+        "nama": "Inggris",
+        "ibu kota": "London",
+        "penduduk": "-+67,1 juta jiwa"
+    }
+]
